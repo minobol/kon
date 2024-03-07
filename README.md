@@ -17,30 +17,26 @@
    ослы), а затем объединить их. Просмотреть содержимое созданного файла.
    Переименовать файл, дав ему новое имя (Друзья человека).
 
-   ![Task 1](https://github.com/pashtetrus33/pet-management-system/blob/main/Task%201.png)
+
 
 2. Создать директорию, переместить файл туда.
 
-![Task 2](https://github.com/pashtetrus33/pet-management-system/blob/main/Task%202.png)
 
 3. Подключить дополнительный репозиторий MySQL. Установить любой пакет из этого репозитория.
 
-![Task 3a](https://github.com/pashtetrus33/pet-management-system/blob/main/Task%203a.png)
-![Task 3b](https://github.com/pashtetrus33/pet-management-system/blob/main/Task%203b.png)
 
 4. Установить и удалить deb-пакет с помощью dpkg.
    
-![Task 4](https://github.com/pashtetrus33/pet-management-system/blob/main/Task%204.png)
 
-5. Выложить [историю команд](https://github.com/pashtetrus33/pet-management-system/blob/main/TerminalCommands.md) в терминале ubuntu
+5. Выложить историю команд в терминале ubuntu
 
 
-6. Нарисовать [диаграмму](https://github.com/pashtetrus33/pet-management-system/blob/main/diagram.drawio), в которой есть класс родительский класс, домашние
+6. Нарисовать диаграмму, в которой есть класс родительский класс, домашние
    животные и вьючные животные, в составы которых в случае домашних
    животных войдут классы: собаки, кошки, хомяки, а в класс вьючные животные
    войдут: Лошади, верблюды и ослы).
 
-![Task 6](https://github.com/pashtetrus33/pet-management-system/blob/main/Task%206.png)
+![Task 6]()
 
 7. В подключенном MySQL репозитории создать базу данных “Друзья человека”
 
@@ -235,7 +231,7 @@ FROM hamsters hm
 LEFT JOIN young_animals ya ON ya.Name = hm.Name
 LEFT JOIN pets p ON p.Id = hm.Pet_id;
 ```
-13. [Создать класс с Инкапсуляцией методов и наследованием по диаграмме.](https://github.com/pashtetrus33/pet-management-system/tree/main/src/models)
+13. [Создать класс с Инкапсуляцией методов и наследованием по диаграмме.]
 14. Написать программу, имитирующую работу реестра домашних животных.
 
    В программе должен быть реализован следующий функционал:
@@ -254,3 +250,6 @@ LEFT JOIN pets p ON p.Id = hm.Pet_id;
 при нажатие “Завести новое животное” Сделайте так, чтобы с объектом такого типа можно было работать в 
 блоке try-with-resources. Нужно бросить исключение, если работа с объектом типа счетчик 
 была не в ресурсном try и/или ресурс остался открыт. Значение считать в ресурсе try, если при заведения животного заполнены все поля.
+
+
+   ![Task 1](https://github.com/pashtetrus33/pet-management-system/blob/main/Task%201.png)
