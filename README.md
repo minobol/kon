@@ -36,7 +36,7 @@
    животных войдут классы: собаки, кошки, хомяки, а в класс вьючные животные
    войдут: Лошади, верблюды и ослы).
 
-![Task 6]()
+![Task 6](https://github.com/minobol/kon/blob/main/Снимок%20экрана%202024-03-07%20в%2018.23.09.png)
 
 7. В подключенном MySQL репозитории создать базу данных “Друзья человека”
 
@@ -252,4 +252,10 @@ LEFT JOIN pets p ON p.Id = hm.Pet_id;
 была не в ресурсном try и/или ресурс остался открыт. Значение считать в ресурсе try, если при заведения животного заполнены все поля.
 
 
-   ![Task 1](https://github.com/pashtetrus33/pet-management-system/blob/main/Task%201.png)
+   ![Task 2](https://github.com/minobol/kon/blob/main/Снимок%20экрана%202024-03-07%20в%2017.22.24.png)
+   ![Task 3](https://github.com/minobol/kon/blob/main/Снимок%20экрана%202024-03-07%20в%2017.25.49.png)
+   ![Task 4](https://github.com/minobol/kon/blob/main/Снимок%20экрана%202024-03-07%20в%2017.39.06.png)
+   ![Task 5](https://github.com/minobol/kon/blob/main/Снимок%20экрана%202024-03-07%20в%2017.41.22.png)
+   ![Task 6](https://github.com/minobol/kon/blob/main/Снимок%20экрана%202024-03-07%20в%2017.52.49.png)
+   ![Task 7](https://github.com/minobol/kon/blob/main/Снимок%20экрана%202024-03-07%20в%2018.02.25.png)
+   ![Task 8](https://github.com/minobol/kon/blob/main/Снимок%20экрана%202024-03-07%20в%2019.05.47.png)
